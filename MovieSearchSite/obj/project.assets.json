@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\MovieDatabase\\MovieSearchSite\\MovieSearchSite.csproj",
+      "projectUniqueName": "E:\\s+q\\MovieSearchWebiste\\MovieSearchSite\\MovieSearchSite.csproj",
       "projectName": "MovieSearchSite",
-      "projectPath": "C:\\Users\\HP\\Desktop\\MovieDatabase\\MovieSearchSite\\MovieSearchSite.csproj",
+      "projectPath": "E:\\s+q\\MovieSearchWebiste\\MovieSearchSite\\MovieSearchSite.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\MovieDatabase\\MovieSearchSite\\obj\\",
+      "outputPath": "E:\\s+q\\MovieSearchWebiste\\MovieSearchSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
